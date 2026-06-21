@@ -47,13 +47,11 @@ x-casaos:
 x-casaos:
   architectures:
     - amd64
-    - arm
     - arm64
-    - "386"
-  main: tailscale
+  main: open-webui
   category: Network
-  developer: Tailscale Inc.
-  author: CasaOS Team
+  developer: Open WebUI Team
+  author: jade-city2
   tagline:
     en_US: Chat with AI the way you want.
   description:
